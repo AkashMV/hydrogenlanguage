@@ -1,0 +1,3 @@
+/home/agnidasa/Desktop/hydrogen/build/CMakeFiles/hydro.dir
+/home/agnidasa/Desktop/hydrogen/build/CMakeFiles/edit_cache.dir
+/home/agnidasa/Desktop/hydrogen/build/CMakeFiles/rebuild_cache.dir

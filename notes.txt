@@ -1,0 +1,16 @@
+steps when compiling
+
+lexical analysis/tokenization
+
+convertion of text into meaningful lexical tokens
+iterating through the whole file and storing keywords in the buffer
+
+tokenization has to be optimised by converting it into a Tokenizer class rather than a function.
+
+what are we actually doing though??
+
+
+so  basically we are changing the way we tokenize the keywords
+
+so it will be a structured class rather than loops and random functions..
+
